@@ -1,0 +1,16 @@
+.footer__content{
+    text-align: start;
+    padding-bottom: 3rem;
+    text-align: center;
+
+}
+
+.footer__ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    font-size: var(--xl-2);
+}
+.footer__h2{
+    font-size: var(--xl-4);
+}
